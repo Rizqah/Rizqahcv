@@ -1,0 +1,81 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+    color:rgb(3, 0, 0);
+    font-display: inherit;
+    text-rendering: optimizeLegibility;
+    font-weight: bolder;
+}
+  
+.experience{
+    height: 80px;
+    width:2000px;
+    background-image: url(https://res.cloudinary.com/dgtovigrc/image/upload/e_make_transparent:10,o_57/v1567504259/download_3_edbwux.jpg);
+       
+}
+.bio{
+    background-image: url(https://res.cloudinary.com/dgtovigrc/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1566569703/IMG_20190221_101903_7_2_mafgly.jpg);
+   
+   text-align: right;
+   font-weight: bolder;
+   height: 500px;
+   background-blend-mode: lighten;
+}  
+  
+.Expertise{
+    background-image: url(https://res.cloudinary.com/dgtovigrc/image/upload/e_make_transparent:10,o_52/v1567502849/download_2_fl1bps.jpg) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-repeat: inherit;
+    background-blend-mode: hard-light;
+  
+
+}
+.edu{
+    background-image: url(https://res.cloudinary.com/dgtovigrc/image/upload/e_make_transparent:0,o_40/v1567498198/download_1_kfiafr.jpg);
+}
+
+ 
+h2{
+    font-style: italic;
+    color: black;
+    text-emphasis: bold;
+
+}   
+h3{
+    color: rgb(226, 11, 11);
+    font-style: inherit;
+}
+body{
+    background-color:rgba(8, 0, 0, 0.075);  
+}
+
+p2{
+    margin: 50px;
+}
+td, th{
+    padding:15px;
+    margin:10px;
+    align-items: center;
+}
+.footer-container{
+    background-color: bisque;
+    height: 200px;
+    font-style: initial;
+    font-size: 25pt;
+    text-align: center;
+   }
+ 
+
+ 
+   
+   
+  
+
+
+
+    
+   
+
+
